@@ -12,7 +12,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 
-reddit = praw.Reddit(client_id='QUhIHM5YT4hDrg', client_secret='CLIENT_SECRET', user_agent='USER_NAME')
+reddit = praw.Reddit(client_id='CLIENT_ID', client_secret='CLIENT_SECRET', user_agent='USER_NAME')
 client = commands.Bot(command_prefix = "!")
 url = ""
 
