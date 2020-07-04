@@ -119,5 +119,5 @@ def getCryptoPrice(num):
         return e
 
 
-client.run('Njk2ODA5Mjk1MzYyMjYxMDYz.XouXwg.aZdnrl62Flb-dN8kNZj98l85sdg')
+client.run('DISCORD_CLIENT')
 
