@@ -9,6 +9,7 @@ Examples:
 !btc
 !eth
 !ltc
+!Hey
 
 Another Cool thing about this program is it gives you the top comment of the that just showed.
 
