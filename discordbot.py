@@ -105,7 +105,7 @@ def getCryptoPrice(num):
     }
     headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '99b38e03-7504-4018-a71d-5a243b70facd',
+    'X-CMC_PRO_API_KEY': 'API_KEY',
     }
 
     session = Session()
