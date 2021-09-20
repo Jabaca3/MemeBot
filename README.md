@@ -17,6 +17,6 @@ Another Cool thing about this program is it gives you the top comment of the mem
 !topcomment
 
 
-This is mostly just for my discord server where I try new programs to mess around with :)
+This is mostly just for my discord server where I try new programs to mess around with
 
 To run the program yourself you will need 3 API's Reddit/Discord/X-CMC_PRO The last one for crypto
